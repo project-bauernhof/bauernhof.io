@@ -2,6 +2,8 @@
 Project Bauernhof Homepage
 
 ## Installation Instructions
-`cd bauernhof.io`
-`yarn install`
-`yarn start`
+```
+cd bauernhof.io
+yarn install
+yarn start
+```
